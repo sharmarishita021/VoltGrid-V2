@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "VoltGrid V2 App",
+            "request": "launch",
+            "mainClass": "com.evstation.app.EVStationApp",
+            "projectName": "ev-charging-system-v2"
+        }
+    ]
+}
